@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 public class ObjectEqualityTest {
     @Test
     public void testStringObjectAgainstIntegerObject(){
-        Integer number = 77;
+        Float number = 77f;
         Integer number2 = 77;
         ObjectEquality objectEquality = new ObjectEquality();
         objectEquality.equals(number);
