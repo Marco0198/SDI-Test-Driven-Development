@@ -13,7 +13,7 @@ public class ObjectEqualityTest {
 
     @Test
     public void testFloatObjectAgainstIntegerObject(){
-        Float number = 23f;
+        Integer number = 23;
         Integer number2 = 23;
         ObjectEquality objectEquality = new ObjectEquality();
         objectEquality.equals(number);

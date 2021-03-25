@@ -1,0 +1,5 @@
+DisablingTestTest.class
+TimeoutsTest.class
+FailingTestTest.class
+ObjectIdentityTest.class
+ObjectEqualityTest.class
