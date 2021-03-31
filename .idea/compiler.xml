@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SDI-Test-Driven-Development" target="8" />
+      <module name="SDI-Test-Driven-Development" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
